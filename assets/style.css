@@ -29,7 +29,6 @@ ul {
 li {
     margin-left: 1rem;
     margin-right: 1rem;
-    color: gray;
     padding-bottom: 0.8rem;
 }
 
@@ -52,6 +51,7 @@ nav {
 h2 {
     padding-top: 1rem;
     padding-bottom: 1rem;
+    font-size: 1.5rem;
 }
 
 p {
